@@ -1,5 +1,6 @@
 {
     "name": "Ficha 1 - Manos a la micro:bit 2 - Carolina Ochoa",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
